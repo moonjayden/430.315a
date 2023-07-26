@@ -32,6 +32,7 @@ FPGA Verification : Nexys4 DDR Board(Artix-7 Based FPGA)
 
 
 [Architectue of the Module]
+![image](https://github.com/moonjayden/430.315a/assets/139466574/5f05efdc-f0e2-4247-8821-e02d6d4ff65c)
 
 
 [Result]
