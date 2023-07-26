@@ -13,7 +13,7 @@ FPGA Verification : Nexys4 DDR Board(Artix-7 Based FPGA)
 - Usually, the value becomes stable to 0 or 1 after a certain period of time
 - Reduce the probability of metastability through buffering
 
-![image](https://github.com/moonjayden/430.315A/assets/139466574/7e163531-15ee-48f4-a68b-f0d9e1840c68)
+![image](https://github.com/moonjayden/430.315a/assets/139466574/415b9ee9-3c0c-403d-a986-d2258d3820b2)
 
 [UART Communication]
 ![image](https://github.com/moonjayden/430.315a/assets/139466574/e5f1e02b-8539-4bbf-b7c7-7839414393bb)
