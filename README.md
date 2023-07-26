@@ -14,7 +14,7 @@ FPGA Verification : Nexys4 DDR Board(Artix-7 Based FPGA)
 - Reduce the probability of metastability through buffering
 
 
-<img src="[이미지주소.png](https://github.com/moonjayden/430.315a/assets/139466574/8778cfa1-f240-4117-b536-8eeea4bd7e67)" width="200" height="400"/>
+<img src="[이미지주소.png](https://github.com/moonjayden/430.315a/assets/139466574/8778cfa1-f240-4117-b536-8eeea4bd7e67)" width="100" />
 [UART Communication]
 ![image](https://github.com/moonjayden/430.315a/assets/139466574/e5f1e02b-8539-4bbf-b7c7-7839414393bb)
 
