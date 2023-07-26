@@ -3,7 +3,7 @@
 @SNU, 2022 
 
 FPGA Verification : Nexys4 DDR Board(Artix-7 Based FPGA)
-### Design UART Communication(Asynchronous) considering Metastability Issues
+## Design UART Communication(Asynchronous) considering Metastability Issues
 [Metastabitlity Issue]
 - Problems with asynchronous data transfer
 - Capturing a value when the data is not stable sometimes leaves a half-way value other than 0 and 1
@@ -22,7 +22,7 @@ FPGA Verification : Nexys4 DDR Board(Artix-7 Based FPGA)
 ![image](https://github.com/moonjayden/430.315a/assets/139466574/58030134-6b55-49d2-b9f3-da773fc23c91)
 
 
-### Design Fully Connected Layer in CNN for Image Classification
+## Design Fully Connected Layer in CNN for Image Classification
 [Fully Connected Layer]
 - FC Layer in CNN for Image Classification
 - Generally at the end of the network
@@ -40,14 +40,14 @@ FPGA Verification : Nexys4 DDR Board(Artix-7 Based FPGA)
 
 
 
-### Design CNN(Conv2d Layers) Image Classifier Accerlerator
+## Design CNN(Conv2d Layers) Image Classifier Accerlerator
 
 [Image Classifier Accelerator]
 
 ![image](https://github.com/moonjayden/430.315a/assets/139466574/0e1f8cc1-ca3a-4537-ba64-1ebcfe90bd50)
 
 [Architecture of the Module]
-![image](https://github.com/moonjayden/430.315A/assets/139466574/925ece25-b164-4b6c-b55f-0e2f57cf2ec4)
+![image](https://github.com/moonjayden/430.315a/assets/139466574/75763fdd-15ef-4804-92e3-b8b389b55040)
 
 [Result]
 ![image](https://github.com/moonjayden/430.315a/assets/139466574/31151ae4-e637-4d11-a3d0-05691d756451)
